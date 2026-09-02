@@ -32,7 +32,7 @@ total = 0
 for shape in shapes:
     total += shape.calculate_area()
 print(f"Общая площадь: {total}")
-
+```
 ## 4. Что выводит программа
 
 Circle площадь: 78.54
